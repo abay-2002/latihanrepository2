@@ -3,6 +3,8 @@ RENCANA KONTEN abay
 - Javascript
   * ES6
   * Framework Javascript
+  ^Vue
+  ^Angular
 - PHP Frameworks
 - Interview
 - Vlogs

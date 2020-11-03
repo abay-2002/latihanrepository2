@@ -3,6 +3,7 @@ RENCANA KONTEN abay
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur data
 - PHP Frameworks
 - Interview
 - Vlogs

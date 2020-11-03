@@ -7,3 +7,4 @@ RENCANA KONTEN abay
 - PHP Frameworks
 - Interview
 - Vlogs
+- python
